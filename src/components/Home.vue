@@ -67,8 +67,8 @@
           <p class="text-slate-700 leading-relaxed">
             <strong>Ervaren in:</strong> Java, Spring Boot, .NET, Angular, Vue,
             Next.js<br />
-            <strong>Te verdiepen in:</strong> DevOps, AI, Security &amp; grotere
-            real‑life projecten.
+            <strong>Te verdiepen in:</strong> AI, Security &amp; grotere
+            projecten.
           </p>
         </article>
       </div>
