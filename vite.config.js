@@ -4,5 +4,9 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/iTalentLeviKumbruck/'
+  base: '/iTalentLeviKumbruck/',
+  build: {
+    outDir: 'docs',       // <‑‑ hier
+    emptyOutDir: true
+  }
 })
