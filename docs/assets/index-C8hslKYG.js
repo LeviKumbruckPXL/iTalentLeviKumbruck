@@ -237,7 +237,7 @@
 </p>\r
 <div class="max-w-3xl mx-auto text-center">\r
     <img\r
-      src="/assets/dobbelsteenspel.png"\r
+      src="assets/dobbelsteenspel.png"\r
       alt="Dobbelsteenspel prototype"\r
       class=" inline-block"\r
     />\r
@@ -248,7 +248,7 @@
 \r
 <div class="max-w-3xl mx-auto text-center">\r
     <img\r
-      src="/assets/leeuwspel.png"\r
+      src="assets/leeuwspel.png"\r
       alt="Dobbelsteenspel prototype"\r
       class="inline-block"\r
     />\r
@@ -263,7 +263,7 @@
 \r
   <div class="max-w-3xl mx-auto text-center">\r
     <img\r
-      src="/assets/presenteren.png"\r
+      src="assets/presenteren.png"\r
       alt="Dobbelsteenspel prototype"\r
       class="inline-block"\r
     />\r
