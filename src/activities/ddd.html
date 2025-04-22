@@ -1,0 +1,88 @@
+<!-- src/activities/ddd.html -->
+
+<!-- ── Omschrijving ─────────────────────────── -->
+<h2 class="text-2xl font-bold mt-10 mb-4">Omschrijving</h2>
+
+<p class="mb-4">
+  Deze innovatieroute bracht ons de kernprincipes van
+  <strong>Domain‑Driven Design (DDD)</strong> bij via theorie, quizjes en
+  interactieve oefeningen. Mijn doel: DDD begrijpen vóór het in
+  Full‑stack .NET opdook, zodat ik daar vlotter kon meekomen.
+</p>
+
+<hr class="my-10 border-slate-300" />
+
+<!-- ── Kern ─────────────────────────────────── -->
+<h2 class="text-2xl font-bold mb-4 mt-4">Kern</h2>
+
+<!-- Foto 1 -->
+<div class="max-w-3xl mx-auto text-center">
+  <img src="/src/assets/daniel.png" alt="Kick‑off DDD‑workshop" class=" inline-block" />
+  <p class="text-sm text-slate-500 text-center py-2">
+    Kick‑off door Daniël Mertens (Info Support)
+  </p>
+</div>
+
+<!-- Dag 1 -->
+<p class="font-semibold mb-2">Dag 1: Event storming &amp; domein­modellering</p>
+<p class="mb-2">
+  We brachten een proces visueel in kaart: events, commands, entities en
+  value objects kregen elk een eigen kleur post‑it. Zo werd het verschil
+  tussen onveranderlijke value objects en identiteits­gebonden entities
+  onmiddellijk duidelijk.
+</p>
+
+<!-- Foto 2 -->
+<div class="max-w-3xl mx-auto text-center">
+
+  <img src="/src/assets/stickynotes.png" alt="Event‑storming post‑its" class=" inline-block" />
+  <p class="text-sm text-slate-500 text-center py-2">
+    Onze kleur­gecodeerde event‑storming muur
+  </p>
+</div>
+
+
+<p>
+  Daarna introduceerden we <strong>aggregates</strong>: domain commands
+  triggeren domain events die de state wijzigen. Quizjes tussendoor testten
+  onze kennis.
+</p>
+
+<p>
+  De dag eindigde met het opzetten van een layered/onion architecture
+  skeleton (presentation → application → domain → infrastructure), dit kende we al van 
+  Programming Advanced het jaar ervoor.
+</p>
+
+<!-- Dag 2 -->
+<p class="font-semibold mt-6 mb-2 mt-4">Dag 2: Application layer &amp; persistence</p>
+<p>
+  Application‑services valideren input, halen aggregates op, voeren commands
+  uit en schrijven data terug. Daarna vergeleken we
+  <em>state stored</em> tegen <em>event sourcing</em>; de impact op
+  flexibiliteit en audit‑trail werd duidelijk.
+</p>
+
+<p class="mb-4">
+  Dankzij de mix van theorie, voorbeelden en hands‑on oefeningen snap ik nu
+  niet alleen wat DDD is, maar kan ik het ook toepassen in echte projecten.
+</p>
+
+<hr class="my-10 border-slate-300" />
+
+<!-- ── Reflectie ────────────────────────────── -->
+<h2 class="text-2xl font-bold mb-2 mt-4">Reflectie</h2>
+
+<p>
+  In het begin klonken begrippen als <em>aggregate</em> en
+  <em>value object</em> vaag; nu zie ik hoe een doordacht domein­model de
+  basis vormt voor onderhoudbare software. Het “eerst model → dan code”‑principe
+  neem ik mee naar alle toekomstige projecten.
+</p>
+
+<p>
+  De route sloot perfect aan bij wat we later in de .NET‑lessen zagen:
+  onion‑architecture en DDD‑concepten kwamen daar terug, maar ik had dankzij
+  deze tweedaagse al een voorsprong. Daarom verdient deze activiteit een
+  plaats in mijn portfolio.
+</p>
