@@ -51,7 +51,7 @@
 </p>\r
 <div class="max-w-3xl mx-auto text-center">\r
     <img\r
-      src="./assets/biertje.png"\r
+      src="/iTalentLeviKumbruck/assets/biertje.png"\r
       alt="Brewery TAP biertje"\r
       class="inline-block"\r
     />\r
