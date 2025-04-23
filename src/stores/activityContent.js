@@ -1,5 +1,5 @@
 export const activityContent = import.meta.glob(
-    '/src/activities/*.html',
+    '/src/*.html',
     { as: 'raw', eager: true }
   )
   

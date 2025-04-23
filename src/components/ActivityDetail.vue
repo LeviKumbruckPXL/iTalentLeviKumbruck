@@ -7,9 +7,9 @@ const route = useRoute()
 
 const html = computed(() => {
   return {
-    ddd:  activityContent['/src/activities/ddd.html'],
-    hackathon: activityContent['/src/activities/hackathon.html'],
-    busit: activityContent['/src/activities/busit.html']
+    ddd:  activityContent['/src/ddd.html'],
+    hackathon: activityContent['/src/hackathon.html'],
+    busit: activityContent['/src/busit.html']
   }[route.params.slug]
 })
 </script>
