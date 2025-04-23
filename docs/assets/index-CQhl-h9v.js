@@ -84,7 +84,7 @@
 </p>\r
 <div class="max-w-3xl mx-auto text-center">\r
     <img\r
-      src="./assets/certificaat.png"\r
+      src="/iTalentLeviKumbruck/assets/certificaat.png"\r
       alt="Deelneming certificaat"\r
       class="inline-block"\r
     />\r
@@ -123,7 +123,7 @@
 \r
 <!-- Foto 1 -->\r
 <div class="max-w-3xl mx-auto text-center">\r
-  <img src="/assets/daniel.png" alt="Kick‑off DDD‑workshop" class=" inline-block" />\r
+  <img src="/iTalentLeviKumbruck/assets/daniel.png" alt="Kick‑off DDD‑workshop" class=" inline-block" />\r
   <p class="text-sm text-slate-500 text-center py-2">\r
     Kick‑off door Daniël Mertens (Info Support)\r
   </p>\r
@@ -141,7 +141,7 @@
 <!-- Foto 2 -->\r
 <div class="max-w-3xl mx-auto text-center">\r
 \r
-  <img src="/assets/stickynotes.png" alt="Event‑storming post‑its" class=" inline-block" />\r
+  <img src="/iTalentLeviKumbruck/assets/stickynotes.png" alt="Event‑storming post‑its" class=" inline-block" />\r
   <p class="text-sm text-slate-500 text-center py-2">\r
     Onze kleur­gecodeerde event‑storming muur\r
   </p>\r
